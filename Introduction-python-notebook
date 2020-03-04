@@ -1,11 +1,18 @@
-Was it straightforward to install Python and all of the libraries?
+1. Was it straightforward to install Python and all of the libraries?
 
 Instalar Python y las bibliotecas fue bastante sencillo. 
 Hubo alguna curva para configurar el proxy debido a que fue necesario utilizar la computadora del trabajo 
 ya que la personal presentó problemas.
 
-Was the tutorial useful? Would you recommend it to others?
-El tutorial da una guía sencilla de como dar los primeros pasos tanto en el lenguaje como en la instalación del ambiente de trabajo en general.
+2. Was the tutorial useful? Would you recommend it to others?
+
+El tutorial da una guía sencilla de como dar los primeros pasos tanto en el lenguaje como en la instalación del ambiente de 
+trabajo en general. La guía es una buena recomendación para cualquiera que este iniciando con Data Science en Python y  Jupyter.
 
 What are the main lessons you've learned from this experience?
+
+- Como crear y generar código en Jupyther. El cual es bastante interactivo y amigable con el usuario.
+- Refrescar algunos comandos nativos de Python para manejo y estructura de datos.
+- Refrescar y reforzar el uso de Github cuando se trabaja en esta clase de ambientes.
+- Acerca principalmente de el Framework Badir y su utilidad como guía y estructura en procesos de data science.
 
